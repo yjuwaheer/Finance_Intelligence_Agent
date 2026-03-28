@@ -1,0 +1,13 @@
+{
+  "name": "Alex Chen",
+  "email": "user@example.com",
+  "province": "ON",
+  "residency_status": "permanent_resident",
+  "arrival_date": "2022-06-15",
+  "annual_income_bracket": "100k_150k",
+  "tfsa_contribution_room": 6500,
+  "rrsp_contribution_room": 18500,
+  "fhsa_contribution_room": 8000,
+  "has_employer_match": true,
+  "employer_match_details": "50% match up to 5% of salary"
+}

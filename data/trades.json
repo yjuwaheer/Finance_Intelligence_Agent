@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2024-01-15",
+    "action": "buy",
+    "symbol": "XEQT.TO",
+    "quantity": 100,
+    "price": 25.00,
+    "total": 2500.00,
+    "fees": 0,
+    "account": "tfsa",
+    "currency": "CAD",
+    "cost_basis_per_share": null,
+    "realized_gain_loss": null,
+    "notes": "Initial TFSA position — all-in-one global equity ETF"
+  }
+]

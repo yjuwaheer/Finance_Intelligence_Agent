@@ -1,0 +1,19 @@
+{
+  "name": "finance-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Personal Finance Intelligence Agent - batch processor and sub-agents",
+  "scripts": {
+    "report:daily": "tsx src/batch-processor.ts --report daily",
+    "report:weekly": "tsx src/batch-processor.ts --report weekly",
+    "report:monthly": "tsx src/batch-processor.ts --report monthly"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "tsx": "^4",
+    "typescript": "^5"
+  }
+}

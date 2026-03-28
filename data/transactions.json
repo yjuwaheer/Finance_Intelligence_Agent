@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2026-01-05",
+    "amount": -1850,
+    "description": "Rent payment - January",
+    "merchant": "Landlord",
+    "category": "Housing",
+    "is_flagged": false,
+    "flag_reason": null
+  }
+]

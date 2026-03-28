@@ -1,0 +1,24 @@
+{
+  "name": "ai-workshop-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Personal Finance Intelligence Agent - Canadian-focused financial advisor and portfolio manager",
+  "scripts": {
+    "report:daily": "cd agent && npx tsx src/batch-processor.ts --report daily",
+    "report:weekly": "cd agent && npx tsx src/batch-processor.ts --report weekly",
+    "report:monthly": "cd agent && npx tsx src/batch-processor.ts --report monthly",
+    "ui": "cd ui && node_modules/.bin/tsx server.ts",
+    "ui:install": "cd ui && npm install"
+  },
+  "keywords": [
+    "finance",
+    "agent",
+    "claude",
+    "canadian"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
+}

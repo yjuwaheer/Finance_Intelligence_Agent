@@ -1,0 +1,11 @@
+[
+  {
+    "address": "123 Main St, Unit 101, Toronto, ON",
+    "purchase_price": 550000,
+    "current_value": 620000,
+    "monthly_rental_income": 2800,
+    "monthly_expenses": 1950,
+    "purchase_date": "2021-09-01",
+    "notes": "Rental condo — tenant on 1-year lease"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "yahoo-finance": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "./mcp-servers/yahoo-finance-mcp",
+        "python",
+        "server.py"
+      ],
+      "env": {}
+    },
+    "resend": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "resend-mcp"
+      ],
+      "env": {
+        "RESEND_API_KEY": "${RESEND_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "symbol": "XEQT.TO",
+    "asset_type": "etf",
+    "quantity": 100,
+    "cost_basis": 25.00,
+    "purchase_date": "2024-01-15",
+    "account": "tfsa",
+    "currency": "CAD",
+    "notes": "All-in-one equity ETF — global diversification, tax-free growth"
+  }
+]

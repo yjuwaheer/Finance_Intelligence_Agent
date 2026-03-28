@@ -1,0 +1,8 @@
+[
+  {
+    "symbol": "SHOP.TO",
+    "target_price": 80.00,
+    "alert_condition": "below",
+    "notes": "Buy more if it dips below $80 for TFSA"
+  }
+]
