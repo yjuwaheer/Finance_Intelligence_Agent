@@ -4,6 +4,10 @@ A Canadian-focused personal finance agent powered by Claude Code. It monitors yo
 
 ---
 
+## UI Demo
+
+<img src=".specs/demo/ui.gif" height="500" />
+
 ## Quick Start
 
 ### 1. Prerequisites
